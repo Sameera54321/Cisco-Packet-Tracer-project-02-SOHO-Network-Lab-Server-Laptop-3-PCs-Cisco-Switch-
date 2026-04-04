@@ -26,8 +26,6 @@ SOHO Network Lab is a Cisco Packet Tracer simulation that models a small office 
 | PC1 | 192.168.1.13 | 255.255.255.0 | 192.168.1.1 |
 | PC2 | 192.168.1.14 | 255.255.255.0 | 192.168.1.1 |
 
-(If no router is present, all devices must be in the same subnet. A router can be added for external connectivity.)
-
 ### Key configurations:
 
     Switch – basic settings (hostname, management IP optional)
@@ -72,8 +70,3 @@ Contributions are welcome! To extend this lab:
     Add a wireless access point for the laptop.
 
     Open a pull request with a clear description.
-
-## 📜 License
-
-Distributed under the MIT License. See the LICENSE file for more information.
-Free to use, modify, and share for educational purposes.
