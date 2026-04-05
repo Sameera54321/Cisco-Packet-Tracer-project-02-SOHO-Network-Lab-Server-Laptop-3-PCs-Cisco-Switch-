@@ -70,3 +70,8 @@ Contributions are welcome! To extend this lab:
     Add a wireless access point for the laptop.
 
     Open a pull request with a clear description.
+
+## 📜 License
+
+Distributed under the MIT License. See the LICENSE file for more information.
+Free to use, modify, and share for educational purposes.
